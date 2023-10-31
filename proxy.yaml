@@ -20,3 +20,4 @@ payload:
   - '+godotengine.org'
   - '+new.c.mi.com'
   - '+opengameart.org'
+  - '*.cloudflare.com'

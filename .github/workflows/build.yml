@@ -1,0 +1,18 @@
+on:
+  push:
+    branches:
+    - main
+  workflow_dispatch:
+jobs:
+  my_job:
+    name: print current system info
+    runs-on: ubuntu-latest
+    steps:
+      - name: setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+      - name: npm install and build
+        run: |
+          npm install
+          npm build

@@ -1,23 +1,19 @@
 name: Build Sing-box srs file
 on:
   push:
-    branches:
-    - main
+    paths:
+      - 'proxy.json'
   workflow_dispatch:
 jobs:
   my_job:
     name: build sing-box srs file from proxy.json
     runs-on: ubuntu-latest
     steps:
-      - name: setup node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20.x'
-      - name: download sing-box
-        run: |
-          curl -O https://github.com/SagerNet/sing-box/releases/download/v1.8.10/sing-box-1.8.10-linux-amd64.tar.gz
-          ls -lh
       - name: run sing binary
         run: |
-          tar -zxvf sing-box-1.8.10-linux-amd64.tar.gz
-          ./sing-box-1.8.10-linux-amd64/sing-box rule-set compile --output sing_proxy.srs ./proxy.json
+          ./sing-box rule-set compile --output sing_proxy.srs ./proxy.json
+          git config --local user.name action-bot
+          git config --local user.email action-bot@no-reply
+          git add sing_proxy.srs
+          git commit -m "update sing_proxy.srs"
+          git push origin main

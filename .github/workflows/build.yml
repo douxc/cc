@@ -16,7 +16,7 @@ jobs:
       - name: download sing-box
         run: |
           curl https://github.com/SagerNet/sing-box/releases/download/v1.8.10/sing-box-1.8.10-linux-amd64.tar.gz
-          ls -a
+          ll
       - name: run sing binary
         run: |
           tar -zxf sing-box-1.8.10-linux-amd64.tar.gz

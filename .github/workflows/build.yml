@@ -6,17 +6,17 @@ on:
   workflow_dispatch:
 jobs:
   my_job:
-    name: print current system info
+    name: build sing-box srs file from proxy.json
     runs-on: ubuntu-latest
     steps:
       - name: setup node
         uses: actions/setup-node@v4
         with:
           node-version: '20.x'
-      - name: install sing-box binary
+      - name: download sing-box
         run: |
           curl  -o sing.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.8.10/sing-box-1.8.10-linux-amd64.tar.gz
-          tar -zxf sing.tar.gz 
       - name: run sing binary
         run: |
+          tar -zxf sing.tar.gz 
           ./sing/sing-box rule-set compile --output sing_proxy.srs ./proxy.json

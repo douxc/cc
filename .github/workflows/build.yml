@@ -9,6 +9,8 @@ jobs:
     name: build sing-box srs file from proxy.json
     runs-on: ubuntu-latest
     steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
       - name: run sing binary
         run: |
           ls -l

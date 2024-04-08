@@ -11,6 +11,7 @@ jobs:
     steps:
       - name: run sing binary
         run: |
+          ls -l
           ./sing-box rule-set compile --output sing_proxy.srs ./proxy.json
           git config --local user.name action-bot
           git config --local user.email action-bot@no-reply

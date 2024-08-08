@@ -2,6 +2,6 @@
   "version": 1,
   "rules": [{
     "domain":["coze.com"],
-    "domain_keyword":["google","openai","codeium"]
+    "domain_keyword":["google","openai","codeium","youtube"]
   }]
 }

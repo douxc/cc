@@ -1,5 +1,5 @@
 payload:
   - 'sentry.io'
   - '+.dify.ai'
-  - '+.excalidraw.com'
-  - '*.digitaloceanspaces.com'
+  - 'app.excalidraw.com'
+  - '+.digitaloceanspaces.com'

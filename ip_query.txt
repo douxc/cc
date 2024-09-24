@@ -1,0 +1,13 @@
+DOMAIN,api.vore.top
+DOMAIN,api.ip.sb
+DOMAIN,api.ip2location.io
+DOMAIN,realip.cc
+DOMAIN,demo.ip-api.com
+DOMAIN,ip-api.io
+DOMAIN,ipapi.co
+DOMAIN,api.ipapi.is
+DOMAIN,api.ip.sb
+DOMAIN,api.qjqq.cn
+DOMAIN,ipinfo.io
+DOMAIN-KEYWORD,ipip
+DOMAIN,ip.skk.moe

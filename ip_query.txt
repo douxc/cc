@@ -10,4 +10,5 @@ DOMAIN,api.ip.sb
 DOMAIN,api.qjqq.cn
 DOMAIN,ipinfo.io
 DOMAIN,ip.skk.moe
+DOMAIN,ipwho.is
 DOMAIN-KEYWORD,ipip

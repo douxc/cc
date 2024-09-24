@@ -3,3 +3,4 @@ DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,excalidraw
 DOMAIN-KEYWORD,googleapis
 DOMAIN-KEYWORD,digitaloceanspaces
+DOMAIN-SUFFIX,synologydownload.com

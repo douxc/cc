@@ -6,9 +6,12 @@ DOMAIN,demo.ip-api.com
 DOMAIN,ip-api.io
 DOMAIN,ipapi.co
 DOMAIN,api.ipapi.is
-DOMAIN,api.ip.sb
 DOMAIN,api.qjqq.cn
 DOMAIN,ipinfo.io
-DOMAIN,ip.skk.moe
+DOMAIN,api.ip.sb
+DOMAIN,qqwry.api.skk.moe
+DOMAIN,pro.ip-api.com
 DOMAIN,ipwho.is
-DOMAIN-KEYWORD,ipip
+DOMAIN,api.ipstack.com
+DOMAIN,api.ipdata.co
+DOMAIN,api.db-ip.com

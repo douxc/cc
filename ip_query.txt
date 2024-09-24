@@ -9,5 +9,5 @@ DOMAIN,api.ipapi.is
 DOMAIN,api.ip.sb
 DOMAIN,api.qjqq.cn
 DOMAIN,ipinfo.io
-DOMAIN-KEYWORD,ipip
 DOMAIN,ip.skk.moe
+DOMAIN-KEYWORD,ipip

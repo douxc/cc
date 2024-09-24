@@ -74,11 +74,9 @@ xbox.*.microsoft.com
 +.ffxiv.com
 +.finalfantasyxiv.com
 +.g-tun.com
-+.googleapis.com
 +.home.arpa
 +.invalid
 +.kuwo.cn
-+.l.google.com
 +.lan
 +.linksys.com
 +.linksyssmartwifi.com

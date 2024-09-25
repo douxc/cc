@@ -2,5 +2,6 @@ DOMAIN-SUFFIX,dify.ai
 DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,excalidraw
 DOMAIN-KEYWORD,googleapis
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-SUFFIX,metacubex.one

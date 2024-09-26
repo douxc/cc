@@ -6,5 +6,4 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,dis.gd
-DOMAIN-KEYWORD,discordapp
 DOMAIN-KEYWORD,discord

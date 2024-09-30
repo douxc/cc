@@ -1,9 +1,11 @@
-DOMAIN-SUFFIX,dify.ai
+DOMAIN-KEYWORD,gradle
+DOMAIN-KEYWORD,maven
 DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,excalidraw
 DOMAIN-KEYWORD,googleapis
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,digitaloceanspaces
+DOMAIN-KEYWORD,discord
+DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,dis.gd
-DOMAIN-KEYWORD,discord

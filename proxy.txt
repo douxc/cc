@@ -6,3 +6,4 @@ DOMAIN-KEYWORD,excalidraw
 DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-KEYWORD,steam

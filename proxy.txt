@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,maven
 DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,excalidraw
 DOMAIN-KEYWORD,digitaloceanspaces
+DOMAIN-KEYWORD,steam
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,metacubex.one
-DOMAIN-KEYWORD,steam
+DOMAIN,music.youtube.com

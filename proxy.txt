@@ -7,4 +7,5 @@ DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,steam
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,googlevideo.com
 DOMAIN,music.youtube.com

@@ -6,8 +6,8 @@ DOMAIN-KEYWORD,excalidraw
 DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN,music.youtube.com

@@ -1,1 +1,2 @@
 DOMAIN-KEYWORD,linear
+DOMAIN-SUFFIX,minecraft.wiki

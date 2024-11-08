@@ -1,3 +1,2 @@
 DOMAIN-KEYWORD,linear
-DOMAIN-KEYWORD,googlevideo
 DOMAIN-SUFFIX,minecraft.wiki

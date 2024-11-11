@@ -10,4 +10,5 @@ DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,lucide.dev
 DOMAIN,music.youtube.com

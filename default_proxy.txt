@@ -1,2 +1,12 @@
 DOMAIN-KEYWORD,linear
 DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-KEYWORD,jetbrains
+DOMAIN-KEYWORD,gradle
+DOMAIN-KEYWORD,maven
+DOMAIN-KEYWORD,sentry
+DOMAIN-KEYWORD,excalidraw
+DOMAIN-KEYWORD,digitaloceanspaces
+DOMAIN-KEYWORD,steam
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,lucide.dev

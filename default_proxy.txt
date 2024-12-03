@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,excalidraw
 DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,steam
+DOMAIN-SUFFIX,shadcn.com
 DOMAIN-SUFFIX,spider.cloud
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,minecraft.wiki

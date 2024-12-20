@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,excalidraw
 DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,tanstack
 DOMAIN-SUFFIX,ipwho.is
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,vuejs.org
 DOMAIN-SUFFIX,shadcn.com
 DOMAIN-SUFFIX,spider.cloud

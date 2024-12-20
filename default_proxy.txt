@@ -7,7 +7,7 @@ DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,excalidraw
 DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,tanstack
-DOMAIN-SUFFIX,mincraft-services.net
+DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,vuejs.org

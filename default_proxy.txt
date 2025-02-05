@@ -21,6 +21,3 @@ DOMAIN-SUFFIX,minecraft.wiki
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,lucide.dev
 DOMAIN-SUFFIX,pqjc.site
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,pypi.org

@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,mojang
 DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,vuejs.org
+DOMAIN-SUFFIX,tailwindcss.com
 DOMAIN-SUFFIX,shadcn.com
 DOMAIN-SUFFIX,spider.cloud
 DOMAIN-SUFFIX,dify.ai

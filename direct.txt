@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,synology.me

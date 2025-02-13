@@ -1,3 +1,0 @@
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,pypi.org

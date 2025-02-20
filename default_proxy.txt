@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,tanstack
 DOMAIN-KEYWORD,minecraft
 DOMAIN-KEYWORD,mojang
+DOMAIN-SUFFIX,threejs.org
 DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,vuejs.org

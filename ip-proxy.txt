@@ -1,4 +1,4 @@
 # racknerd vps
 IP-CIDR,192.3.86.117/24,no-resolve
-# enterprise.dify.local
+# enterprise.local
 IP-CIDR,20.57.32.77/24,no-resolve

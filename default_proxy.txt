@@ -23,3 +23,4 @@ DOMAIN-SUFFIX,minecraft.wiki
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,lucide.dev
 DOMAIN-SUFFIX,pqjc.site
+DOMAIN-SUFFIX,hysteria.network

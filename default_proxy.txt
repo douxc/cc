@@ -28,3 +28,4 @@ DOMAIN-SUFFIX,hysteria.network
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,v0.dev
 DOMAIN-SUFFIX,vusercontent.net
+DOMIAN-SUFFIX,douxc.top

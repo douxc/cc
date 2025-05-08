@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,shadcn.com
 DOMAIN-SUFFIX,spider.cloud
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,dify.dev
+DOMAIN-SUFFIX,dify.local
 DOMAIN-SUFFIX,udify.app
 DOMAIN-SUFFIX,minecraft.wiki
 DOMAIN-SUFFIX,metacubex.one
@@ -28,4 +29,3 @@ DOMAIN-SUFFIX,hysteria.network
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,v0.dev
 DOMAIN-SUFFIX,vusercontent.net
-DOMIAN-SUFFIX,douxc.top

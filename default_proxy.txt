@@ -29,3 +29,4 @@ DOMAIN-SUFFIX,hysteria.network
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,v0.dev
 DOMAIN-SUFFIX,vusercontent.net
+DOMAIN-SUFFIX,csb.app

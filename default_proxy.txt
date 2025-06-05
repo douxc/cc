@@ -32,3 +32,4 @@ DOMAIN-SUFFIX,v0.dev
 DOMAIN-SUFFIX,vusercontent.net
 DOMAIN-SUFFIX,csb.app
 DOMAIN-SUFFIX,date-fns.org
+DOMAIN-SUFFIX,apache.org

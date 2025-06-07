@@ -33,3 +33,4 @@ DOMAIN-SUFFIX,vusercontent.net
 DOMAIN-SUFFIX,csb.app
 DOMAIN-SUFFIX,date-fns.org
 DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,nextjs.org

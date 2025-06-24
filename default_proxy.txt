@@ -36,3 +36,4 @@ DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,douxc.top
+DOMAIN-SUFFIX,z-library.sk

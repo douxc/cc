@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,dify.dev
 DOMAIN-SUFFIX,dify.local
 DOMAIN-SUFFIX,udify.app
-DOMAIN-SUFFIX,minecraft.wiki
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,lucide.dev
 DOMAIN-SUFFIX,pqjc.site
@@ -35,5 +34,4 @@ DOMAIN-SUFFIX,date-fns.org
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,figma.com
-DOMAIN-SUFFIX,douxc.top
 DOMAIN-SUFFIX,ncdn.ec

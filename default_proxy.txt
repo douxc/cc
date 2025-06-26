@@ -13,6 +13,9 @@ DOMAIN-KEYWORD,mojang
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,threejs.org
 DOMAIN-SUFFIX,ipwho.is
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipapi.io
+DOMAIN-SUFFIX,api.ip.sb
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,vuejs.org
 DOMAIN-SUFFIX,tailwindcss.com

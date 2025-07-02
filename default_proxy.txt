@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,shadcn.com
 DOMAIN-SUFFIX,spider.cloud
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,dify.dev
-DOMAIN-SUFFIX,dify.local
 DOMAIN-SUFFIX,udify.app
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,lucide.dev

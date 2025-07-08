@@ -38,3 +38,4 @@ DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,ncdn.ec
 DOMAIN-SUFFIX,yydjc.top
+DOMAIN-SUFFIX,mozilla.org

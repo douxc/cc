@@ -10,6 +10,8 @@ DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,tanstack
 DOMAIN-KEYWORD,minecraft
 DOMAIN-KEYWORD,mojang
+
+DOMAIN-SUFFIX,racknerd.com
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,threejs.org
 DOMAIN-SUFFIX,ipwho.is

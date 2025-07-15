@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,tanstack
 DOMAIN-KEYWORD,minecraft
 DOMAIN-KEYWORD,mojang
+DOMAIN-KEYWORD,duolingo
 
 DOMAIN-SUFFIX,racknerd.com
 DOMAIN-SUFFIX,pinterest.com

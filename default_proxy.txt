@@ -30,7 +30,6 @@ DOMAIN-SUFFIX,dify.dev
 DOMAIN-SUFFIX,udify.app
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,lucide.dev
-DOMAIN-SUFFIX,pqjc.site
 DOMAIN-SUFFIX,hysteria.network
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,v0.dev

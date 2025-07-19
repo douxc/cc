@@ -1,1 +1,3 @@
 DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,mi.com

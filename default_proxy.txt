@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,tanstack
 DOMAIN-KEYWORD,minecraft
 DOMAIN-KEYWORD,mojang
 
+DOMAIN-SUFFIX,listenhub.ai
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,racknerd.com
 DOMAIN-SUFFIX,pinterest.com

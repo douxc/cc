@@ -44,3 +44,4 @@ DOMAIN-SUFFIX,ncdn.ec
 DOMAIN-SUFFIX,yydjc.top
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,pqjc.site
+DOMAIN-SUFFIX,stripe.com

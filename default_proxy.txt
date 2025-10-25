@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,api.ip.sb
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,vuejs.org
+DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,tailwindcss.com
 DOMAIN-SUFFIX,shadcn.com
 DOMAIN-SUFFIX,spider.cloud

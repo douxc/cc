@@ -48,3 +48,7 @@ DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,pqjc.site
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,gameloft.com
+
+DOMAIN,public-static.duolingo.com
+DOMAIN,schools-cdn.duolingo.com
+DOMAIN-SUFFIX,cloudfront.net

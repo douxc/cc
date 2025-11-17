@@ -52,3 +52,5 @@ DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,k8slens.dev
+DOMAIN-SUFFIX,microsoft.com

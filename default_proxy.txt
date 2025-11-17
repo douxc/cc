@@ -56,3 +56,4 @@ DOMAIN-SUFFIX,k8slens.dev
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,musicbrainz.org
+DOMAIN-SUFFIX,last.fm

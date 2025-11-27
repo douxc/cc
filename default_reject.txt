@@ -1,1 +1,8 @@
-DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,geo.hivebedrock.network
+DOMAINDOMAIN-SUFFIX,play.cubecraft.net
+DOMAINDOMAIN-SUFFIX,mco.mineplex.com
+DOMAINDOMAIN-SUFFIX,play.galaxite.net
+DOMAINDOMAIN-SUFFIX,mco.lbsg.net
+DOMAINDOMAIN-SUFFIX,soulsteel.net
+DOMAINDOMAIN-SUFFIX,play.soulsteel.net
+DOMAINDOMAIN-SUFFIX,noxcrew.com

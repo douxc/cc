@@ -1,0 +1,5 @@
+DOMAIN,geo.hivebedrock.network
+DOMAIN,play.cubecraft.net
+DOMAIN,mco.mineplex.com
+DOMAIN,play.galaxite.net
+DOMAIN,mco.lbsg.net

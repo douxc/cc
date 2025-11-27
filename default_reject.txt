@@ -1,10 +1,9 @@
-DOMAIN-SUFFIX,geo.hivebedrock.network
-DOMAIN-SUFFIX,play.cubecraft.net
-DOMAIN-SUFFIX,mco.mineplex.com
-DOMAIN-SUFFIX,play.galaxite.net
-DOMAIN-SUFFIX,mco.lbsg.net
+DOMAIN-SUFFIX,hivebedrock.network
+DOMAIN-SUFFIX,cubecraft.net
+DOMAIN-SUFFIX,mineplex.com
+DOMAIN-SUFFIX,galaxite.net
+DOMAIN-SUFFIX,lbsg.net
 DOMAIN-SUFFIX,soulsteel.net
-DOMAIN-SUFFIX,play.soulsteel.net
 DOMAIN-SUFFIX,noxcrew.com
 DOMAIN-SUFFIX,enchanted.gg
 DOMAIN-SUFFIX,inpvp.net

@@ -10,6 +10,10 @@ DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,tanstack
 DOMAIN-KEYWORD,minecraft
 DOMAIN-KEYWORD,mojang
+DOMAIN-SUFFIX,playfabapi.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftservices.com
 
 DOMAIN-SUFFIX,listenhub.ai
 DOMAIN-SUFFIX,pythonhosted.org

@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,mi.com
 IP-CIDR,103.79.25.57/22,no-resolve
+IP-CIDR,204.152.192.34/22,no-resolve

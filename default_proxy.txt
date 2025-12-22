@@ -63,3 +63,4 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,last.fm
+DOMAIN-SUFFIX,pages.dev

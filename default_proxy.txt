@@ -10,12 +10,13 @@ DOMAIN-KEYWORD,digitaloceanspaces
 DOMAIN-KEYWORD,tanstack
 DOMAIN-KEYWORD,minecraft
 DOMAIN-KEYWORD,mojang
+DOMAIN-KEYWORD,duolingo
+
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,antv.vision
-
 DOMAIN-SUFFIX,listenhub.ai
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,racknerd.com
@@ -54,7 +55,6 @@ DOMAIN-SUFFIX,pqjc.site
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,gameloft.com
 
-DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursor.com

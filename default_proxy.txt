@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,pqjc.site
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,c.gle
 
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cursor.sh

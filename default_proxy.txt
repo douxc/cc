@@ -12,7 +12,10 @@ DOMAIN-KEYWORD,minecraft
 DOMAIN-KEYWORD,mojang
 DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,msn
+DOMAIN-KEYWORD,office
+DOMAIN-KEYWORD,azureedge
 
+DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,minecraft.net

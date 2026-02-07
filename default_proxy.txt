@@ -19,6 +19,7 @@ DOMAIN-KEYWORD,azureedge
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,antv.vision

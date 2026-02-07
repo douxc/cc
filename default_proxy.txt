@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,tanstack
 DOMAIN-KEYWORD,minecraft
 DOMAIN-KEYWORD,mojang
 DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,msn
 
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,xboxlive.com

@@ -16,7 +16,6 @@ DOMAIN-KEYWORD,office
 DOMAIN-KEYWORD,azure
 DOMAIN-KEYWORD,azureedge
 DOMAIN-KEYWORD,windowsupdate.com
-DOMAIN-KEYWORD,ip-location
 
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,playfabapi.com
@@ -30,22 +29,12 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,racknerd.com
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,threejs.org
-DOMAIN-SUFFIX,ipwho.is
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ipapi.io
-DOMAIN-SUFFIX,ipapi.co
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,myip.com
-DOMAIN-SUFFIX,api.ip.sb
-DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,vuejs.org
 DOMAIN-SUFFIX,tailwindcss.com
 DOMAIN-SUFFIX,shadcn.com
 DOMAIN-SUFFIX,spider.cloud
-DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,dify.dev
-DOMAIN-SUFFIX,udify.app
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,lucide.dev
 DOMAIN-SUFFIX,hysteria.network

@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,api.ip.sb
+DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,vuejs.org
 DOMAIN-SUFFIX,tailwindcss.com

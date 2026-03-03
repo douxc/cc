@@ -15,8 +15,9 @@ DOMAIN-KEYWORD,msn
 DOMAIN-KEYWORD,office
 DOMAIN-KEYWORD,azure
 DOMAIN-KEYWORD,azureedge
-
 DOMAIN-KEYWORD,windowsupdate.com
+DOMAIN-KEYWORD,ip-location
+
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,xboxlive.com

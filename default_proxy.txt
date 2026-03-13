@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,azure
 DOMAIN-KEYWORD,azureedge
 DOMAIN-KEYWORD,windowsupdate.com
 
+DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,xboxlive.com

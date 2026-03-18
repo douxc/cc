@@ -64,3 +64,16 @@ DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,pages.dev
+
+# ip test
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ident.me
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,ipip.com
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,ipstack.com
+DOMAIN-SUFFIX,whatismyipaddress.com
+DOMAIN-SUFFIX,ipinfo.io

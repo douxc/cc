@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,kimi.global
+DOMAIN-SUFFIX,iemall.co.nz
 
 # ip test
 DOMAIN-SUFFIX,ip.sb

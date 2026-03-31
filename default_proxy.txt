@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,kimi.global
 
 # ip test
 DOMAIN-SUFFIX,ip.sb

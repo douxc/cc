@@ -20,6 +20,13 @@ jobs:
       - name: Build domain list source for geosite:cc
         shell: bash
         run: |
+          shopt -s nullglob
+          txt_files=(./*.txt)
+          if [ ${#txt_files[@]} -eq 0 ]; then
+            echo "No .txt rule files found in repository root."
+            exit 1
+          fi
+
           mkdir -p data
           awk -F',' '
             function trim(v) { gsub(/^[[:space:]]+|[[:space:]]+$/, "", v); return v }
@@ -40,11 +47,19 @@ jobs:
                 print "keyword:" val
               }
             }
-          ' ./*.txt | sort -u > data/cc
+          ' "${txt_files[@]}" | sort -u > data/cc
+
+          if [ ! -s data/cc ]; then
+            echo "No domain rules were converted. Please check input .txt rule files."
+            exit 1
+          fi
 
       - name: Build geosite.dat
         run: |
-          go run github.com/v2fly/domain-list-community@latest --datapath=./data --outputname=geosite.dat --outputdir=./
+          go run github.com/v2fly/domain-list-community@v0.0.0-20260331044424-656b445ee1f3 --datapath=./data --outputname=geosite.dat --outputdir=./ || {
+            echo "Failed to build geosite.dat via domain-list-community."
+            exit 1
+          }
 
       - name: Commit generated geosite.dat
         shell: bash

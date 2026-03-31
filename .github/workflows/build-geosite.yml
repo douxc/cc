@@ -1,0 +1,60 @@
+name: Build geosite.dat
+
+on:
+  push:
+    paths:
+      - "*.txt"
+      - ".github/workflows/build-geosite.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-geosite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Build domain list source for geosite:cc
+        shell: bash
+        run: |
+          mkdir -p data
+          awk -F',' '
+            function trim(v) { gsub(/^[[:space:]]+|[[:space:]]+$/, "", v); return v }
+            {
+              line = $0
+              sub(/\r$/, "", line)
+              if (line ~ /^[[:space:]]*#/ || line ~ /^[[:space:]]*$/) next
+
+              typ = trim($1)
+              val = tolower(trim($2))
+              if (val == "") next
+
+              if (typ == "DOMAIN-SUFFIX") {
+                print "domain:" val
+              } else if (typ == "DOMAIN") {
+                print "full:" val
+              } else if (typ == "DOMAIN-KEYWORD") {
+                print "keyword:" val
+              }
+            }
+          ' ./*.txt | sort -u > data/cc
+
+      - name: Build geosite.dat
+        run: |
+          go run github.com/v2fly/domain-list-community@latest --datapath=./data --outputname=geosite.dat --outputdir=./
+
+      - name: Commit generated geosite.dat
+        shell: bash
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add geosite.dat
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "build: update geosite.dat"
+          git push

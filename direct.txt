@@ -3,4 +3,3 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,metacubexd.pages.dev
 DOMAIN-SUFFIX,yovole.net
-DOMAIN-SUFFIX,pqjc.site

@@ -2,4 +2,3 @@ DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,metacubexd.pages.dev
-DOMAIN-SUFFIX,yovole.net

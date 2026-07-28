@@ -77,3 +77,6 @@ DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,ipstack.com
 DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipwho.is
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipapi.co

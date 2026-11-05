@@ -1,4 +1,4 @@
 # racknerd vps
-IP-CIDR,192.3.86.0/24,no-resolve
+192.3.86.0/24
 # enterprise.local
-IP-CIDR,20.57.32.0/24,no-resolve
+20.57.32.0/24

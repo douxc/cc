@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,synology.me
-DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN,dns.weixin.qq.com.cn,DIRECT
++.synology.me
++.xiaomi.com
++.mi.com
+dns.weixin.qq.com.cn

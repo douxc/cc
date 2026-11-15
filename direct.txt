@@ -2,3 +2,6 @@
 +.xiaomi.com
 +.mi.com
 dns.weixin.qq.com.cn
+xn--ngstr-lra8j.com
++.googlevideo.com
++.gvt1.com
